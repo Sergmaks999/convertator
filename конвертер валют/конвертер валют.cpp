@@ -21,7 +21,7 @@ int main()
 
         cout << "Введите количество рублей: ";
         cin >> rubles;
-
+         
         cout << "Выберите валюту:" << endl;
         cout << "1. Доллар" << endl;
         cout << "2. Евро" << endl;
